@@ -6,3 +6,7 @@ bin/
 .project
 *.class
 target/classes/com/matejdro/bukkit/monsterhunt/HuntWorldManager.class
+
+.DS_Store
+
+*.class
